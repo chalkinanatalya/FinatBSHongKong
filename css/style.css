@@ -1,0 +1,11 @@
+.navbar {
+    background: linear-gradient(10deg, #36b1d6 8.84%, rgba(13, 138, 196, 0) 90.12%);
+}
+
+.card-body {
+    background: linear-gradient(10deg, #36b1d6 8.84%, rgba(13, 138, 196, 0) 90.12%);
+}
+
+.carousel {
+    background: linear-gradient(10deg, #36b1d6 8.84%, rgba(13, 138, 196, 0) 90.12%)!important;
+}
