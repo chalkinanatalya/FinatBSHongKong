@@ -1,11 +1,54 @@
+
+
 .navbar {
     background: linear-gradient(10deg, #36b1d6 8.84%, rgba(13, 138, 196, 0) 90.12%);
+}
+
+.about-trainer {
+    margin: 50px 0px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.articles {
+    margin: 50px 0px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.shop {
+    margin: 50px 0px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.card {
+    border: none;
+}
+
+.info-trainer {
+    font-family: 'Pompiere', cursive;
+    font-size: 20px;
 }
 
 .card-body {
     background: linear-gradient(10deg, #36b1d6 8.84%, rgba(13, 138, 196, 0) 90.12%);
 }
 
+.shop-items {
+    margin-bottom: 50px;
+}
+
 .carousel {
     background: linear-gradient(10deg, #36b1d6 8.84%, rgba(13, 138, 196, 0) 90.12%)!important;
+}
+
+.footer {
+    background: linear-gradient(10deg, #36b1d6 8.84%, rgba(13, 138, 196, 0) 90.12%);
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.subscribe {
+    margin-bottom: 20px;
 }
