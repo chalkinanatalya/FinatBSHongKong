@@ -52,3 +52,22 @@
 .subscribe {
     margin-bottom: 20px;
 }
+
+.new-articles  {
+    margin: 50px 0px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.art-btn {
+    text-decoration: none!important;
+    font-size: 20px;
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+.old-articles {
+    margin: 50px 0px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
